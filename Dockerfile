@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM debian
 MAINTAINER APN
-RUN apt-get update -qq
-RUN apt-get install -y -qq build-essential gfortran cmake libboost-dev-all libgsl-dev lcov
+RUN apt-get update -y -qq
+RUN apt-get install -y -qq build-essential gfortran cmake libboost-all-dev libgsl-dev lcov
