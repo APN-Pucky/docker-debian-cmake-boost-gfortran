@@ -1,5 +1,5 @@
 # apnpucky/docker-debian-cmake-boost-gfortran
-https://hub.docker.com/repository/docker/apnpucky/docker-debian-cmake-boost-gfortran
+https://hub.docker.com/r/apnpucky/docker-debian-cmake-boost-gfortran
 
 
 ### Overview
